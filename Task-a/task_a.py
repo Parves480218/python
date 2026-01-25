@@ -6,7 +6,7 @@
 #
 # See LICENSE file in the project root for full license information.
 
-# Modified by nnn according to given task
+# Modified by Parves Mosharof Imran according to given task
 
 """
 Program that reads reservation details from a file
